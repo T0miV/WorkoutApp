@@ -1,0 +1,42 @@
+{
+  "Push": [
+    { "name": "Penkki", "weight": "92.5kg", "reps": ["6", "6", "6"] },
+    { "name": "Vinopenkki kone", "weight": "77.5kg", "reps": ["9", "9", "9"] },
+    { "name": "Peckdeck", "weight": "55kg", "reps": ["13", "13", "13"] },
+    { "name": "Pystypunnerrus kone", "weight": "60kg", "reps": ["11", "10"] },
+    { "name": "Takaolkapää kone", "weight": "60kg", "reps": ["9", "9", "9"] },
+    { "name": "Chest flyes", "weight": "15kg", "reps": ["11", "10"] },
+    { "name": "Tricep pushdown", "weight": "30kg", "reps": ["12", "12"] },
+    { "name": "Tricep overhead", "weight": "25kg", "reps": ["10"] },
+    { "name": "Tricep pushdown kone", "weight": "100kg", "reps": ["11", "10"] },
+    { "name": "Viparit", "weight": "16kg", "reps": ["12"] },
+    { "name": "Tricep käsipaino overhead", "weight": "12kg", "reps": ["7"] }
+  ],
+  "Pull": [
+    { "name": "Leuat myötäote", "weight": "", "reps": ["11", "10", "8"] },
+    { "name": "Deadlift", "weight": "150kg", "reps": ["4", "140kg 6", "7", "sumo 140kg 6"] },
+    { "name": "Alatalja", "weight": "50kg", "reps": ["8", "9", "9"] },
+    { "name": "Ylätalja", "weight": "65kg", "reps": ["8", "9", "8"] },
+    { "name": "Tuettu t soutu", "weight": "45kg", "reps": ["8", "8", "8"] },
+    { "name": "Tankosoutu", "weight": "80kg", "reps": ["8", "8", "8"] },
+    { "name": "Preacher curl", "weight": "25kg", "reps": ["10", "10", "8"] },
+    { "name": "Hauiskone", "weight": "27.5kg", "reps": ["9", "9", "9"] },
+    { "name": "Normi taljahauis", "weight": "25kg", "reps": ["12"] },
+    { "name": "Hammer", "weight": "16kg", "reps": ["8", "8", "7"] },
+    { "name": "Yhden käden taljahauis", "weight": "6.25kg", "reps": [] }
+  ],
+  "Legs": [
+    { "name": "Smith kyykky", "weight": "70kg + tanko", "reps": ["12", "12", "12"] },
+    { "name": "Hack kyykky", "weight": "65kg", "reps": ["11", "10", "10"] },
+    { "name": "Jalkaprässi", "weight": "170kg", "reps": ["13", "10"] },
+    { "name": "Leg extension", "weight": "20kg", "reps": ["13", "13", "25kg 16"] },
+    { "name": "Pohjekone", "weight": "40kg", "reps": ["14"] },
+    { "name": "Takareisilaite", "weight": "45kg", "reps": ["8", "8"] },
+    { "name": "Tricep pushdown", "weight": "27.5kg", "reps": [] },
+    { "name": "Tricep kone", "weight": "90kg", "reps": ["13", "14"] },
+    { "name": "Tricep overhead", "weight": "27.5kg", "reps": ["8", "8"] },
+    { "name": "Leuat vastaote", "weight": "", "reps": ["12", "9"] },
+    { "name": "Hauislaite", "weight": "28.75kg", "reps": ["9", "8", "7"] },
+    { "name": "Bicep curls", "weight": "16kg", "reps": ["10", "10", "10"] }
+  ]
+}
