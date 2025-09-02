@@ -25,7 +25,7 @@ export default function WorkoutScreen({ route, navigation }: Props) {
           <View style={styles.itemContainer}>
             
             <Text style={styles.itemTitle}>
-            {item.name} - {item.weight}
+            {item.name} - {item.weight} 
             </Text>
 
             <Text style={styles.repsText}>{item.reps.join(", ")}</Text>
